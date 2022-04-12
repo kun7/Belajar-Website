@@ -18,6 +18,14 @@ li {
   padding: 20px 40px;
 }
 
+.header-logo a {
+  color: #FFFFFF;
+}
+
+.header-logo a:hover {
+  color: #610ed4;
+}
+
 .header-list ul {
   float: right;
 }
