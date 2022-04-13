@@ -1,5 +1,6 @@
 body {
   font-family: "Avenir Next";
+  margin:0;
 }
 
 li {
@@ -78,7 +79,7 @@ a {
   transition-property: background-color;
 }
 .sidebar ul li:hover {
-  background-color :##5478e8;
+  background-color :#395dcc;
 }
 #check:checked ~ .sidebar {
   left: 0;
@@ -91,4 +92,14 @@ a {
   .header-list ul {
     display: none;
   }
+}
+
+.anggota{
+  
+  border: 10px solid yellow;
+  text-align: center;
+  border-radius: 10px;
+  background-color: #395dcc;
+  color:#FFFFFF;
+
 }
